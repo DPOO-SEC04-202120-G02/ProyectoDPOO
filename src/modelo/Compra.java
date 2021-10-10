@@ -22,6 +22,9 @@ public class Compra {
 	public Cliente getCliente() {
 		return cliente;
 	}
+	/*
+	 * public Cliente getCliente() { return cliente; }
+	 */
 	
 	public void agregarEntrada(Entrada entrada) {
 		entradas.add(entrada);
